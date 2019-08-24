@@ -1,0 +1,26 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+@media only screen and (max-width: 992px) {
+  nav .brand-logo {
+    font-size: 1.5rem;
+  }
+}
+
+.slider .btn {
+  margin-top: 20px;
+}
+.section-search input {
+  padding: 5px !important;
+  width: 90% !important;
+  font-size: 1.2rem !important;
+  border: #f4f4f4 3px solid !important;
+}
+.autocomplete-content {
+  position: absolute;
+  text-align: center;
+  width: inherit;
+}
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
